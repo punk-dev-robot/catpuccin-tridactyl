@@ -32,7 +32,7 @@
     --crust: #232634;
 
     /* Custom Font */
-    --font: "Fira Code Nerd Font", "Monaspace Krypton", "JetBrainsMono Nerd Font",monospace; /* Default font, can be overridden directly in a forked repo CSS */
+    --font: "MesloLGL Nerd Font Mono", "JetBrainsMono Nerd Font", "Fira Code Nerd Font", "Monaspace Krypton", monospace; /* Default font, can be overridden directly in a forked repo CSS */
 
     /* Tridactyl Theme Variables - Mapped to Catppuccin Colors */
     --currentline: var(--mantle); /* or --surface0 */
@@ -93,7 +93,7 @@
 
 #completions table {
     font-size: 1rem;
-    font-weight: 200;
+    font-weight: 300;
     border-spacing: 0;
     table-layout: fixed;
     padding: 1rem 0;
@@ -114,7 +114,7 @@
     background: var(--tridactyl-bg);
     display: inline-block;
     font-size: unset;
-    font-weight: 200;
+    font-weight: 300;
     overflow: hidden;
     width: 100%;
     border-top: unset;
