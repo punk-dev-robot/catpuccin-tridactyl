@@ -32,7 +32,7 @@
     --crust: #232634;
 
     /* Custom Font */
-    --font: "Monaspace Krypton", "JetBrainsMono Nerd Font",monospace; /* Default font, can be overridden directly in a forked repo CSS */
+    --font: "Fira Code Nerd Font", "Monaspace Krypton", "JetBrainsMono Nerd Font",monospace; /* Default font, can be overridden directly in a forked repo CSS */
 
     /* Tridactyl Theme Variables - Mapped to Catppuccin Colors */
     --currentline: var(--mantle); /* or --surface0 */
